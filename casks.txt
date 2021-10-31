@@ -1,0 +1,16 @@
+firefox
+visual-studio-code
+obsidian
+insomnia
+bitwarden
+sequel-pro
+iterm2
+ncdu
+raycast
+slack
+discord
+spotify
+mullvadvpn
+rectangle
+karabiner-elements
+qview
